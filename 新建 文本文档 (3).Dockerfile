@@ -1,0 +1,1 @@
+FROM ghcr.io/qwertmnbvc10/hajimi:latest
